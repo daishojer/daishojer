@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About me
+##  About me
 
 * 🎓 Studying **Computer Science** at Universidad San Carlos de Guatemala (USAC).
 * 💻 Currently developing a **Medical Lexer** using C++ and Qt, and a **Patient Queue Management System** using C# and Windows Forms.
